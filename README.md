@@ -1,2 +1,2 @@
-# DoolStarNet-project
-産物
+# DoolStarNet-opensauce-edition
+DoolStarNet-opensauce-edition
